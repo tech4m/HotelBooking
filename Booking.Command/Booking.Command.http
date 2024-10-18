@@ -1,0 +1,6 @@
+@Booking.Command_HostAddress = http://localhost:5016
+
+GET {{Booking.Command_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
